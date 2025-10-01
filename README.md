@@ -11,4 +11,4 @@
 
 ![Codingan Pertama](https://github.com/Indahwakifa/Lab2Web/blob/c24c61f5a497a6227bcb44c3c2be998eaf9ebae5/Cuplikan%20layar%202025-10-01%20142245.png) 
 
-![Codingan Pertama](
+![Codingan Pertama](https://github.com/Indahwakifa/Lab2Web/blob/83dcedbdf7e577f35b5ff84afeba89c09485f543/Cuplikan%20layar%202025-10-01%20142208.png) 
