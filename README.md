@@ -57,4 +57,12 @@ Artinya: deklarasi CSS pada ID akan ditampilkan browser, walaupun Class juga pun
 
 ![contohnya](https://github.com/Indahwakifa/Lab2Web/blob/039614b6ee65f974c513cce6e9054e6c3868c949/3.jpg)
 
+![contohnya](https://github.com/Indahwakifa/Lab2Web/blob/85c2c3085136948b5086acc760f69bcdf998c10f/4.jpg)
 
+Tag selector → paling lemah
+
+Class selector → lebih kuat dari tag
+
+ID selector → lebih kuat dari class
+
+Inline CSS (langsung di elemen pakai style="") → paling kuat
