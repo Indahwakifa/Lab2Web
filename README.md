@@ -50,3 +50,5 @@ Urutan prioritas jika ada inline, internal, dan eksternal CSS pada elemen yang s
 
 Jika ID (#id) dan Class (.class) sama-sama dipakai di sebuah elemen HTML, maka ID lebih kuat (spesifik) daripada Class.
 Artinya: deklarasi CSS pada ID akan ditampilkan browser, walaupun Class juga punya aturan CSS.
+
+![contohnya](https://github.com/Indahwakifa/Lab2Web/blob/3ec65d04551644f06eac408df5b831b6dca4b26e/1.jpg)
